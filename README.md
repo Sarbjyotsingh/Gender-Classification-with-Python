@@ -7,8 +7,11 @@ This is the code for the gender classification. The code uses the scikit-learn m
 ##Dependencies
 
 Scikit-learn (http://scikit-learn.org/stable/install.html)
+
 numpy (pip install numpy)
+
 scipy (pip install scipy)
+
 Install missing dependencies using pip
 
 ##Usage
